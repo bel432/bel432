@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi friends today is monday ### Hi there 👋
 
 <!--
 **bel432/bel432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
